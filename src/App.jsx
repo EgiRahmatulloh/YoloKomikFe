@@ -84,14 +84,6 @@ function App() {
           <p>
             Make sure the image is clear, black and white, and has text in Japanese.
           </p>
-          <a
-            href="https://github.com/Detopall/manga-translator"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="github-link"
-          >
-            View on GitHub
-          </a>
         </div>
       </header>
 
